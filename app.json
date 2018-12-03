@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+   "pages/indextwo/indextwo"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "一键分析本命证书",
+    "navigationBarTextStyle":"black"
+  }
+}
